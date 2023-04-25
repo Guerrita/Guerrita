@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Guerrita
-- 👀 I’m interested in html, css, javascript, react and NextJs in the frontend and Java and Python y Backend
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Fronted and i want to learn about IA.
-- 📫 How to reach me andresguerra0625@gmail.com
+# ¡Hola! Soy @Guerrita 👋
 
-<!---
-Guerrita/Guerrita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Acerca de mí 👀
+
+Soy un apasionado del desarrollo web, especialmente en HTML, CSS, JavaScript, React y Next.js en el frontend, y Java y Python en el backend. Me encanta aprender y experimentar con nuevas tecnologías.
+
+## Actualmente 🌱
+
+Actualmente estoy enfocado en aprender y mejorar mis habilidades en React.js, una de las herramientas más populares para el desarrollo de interfaces de usuario en el frontend.
+
+## Colaboración 💞️
+
+Estoy buscando colaborar en proyectos relacionados con el frontend, donde pueda aportar mi experiencia y seguir aprendiendo. También me gustaría aprender más sobre IA, una de las áreas más interesantes y prometedoras de la tecnología.
+
+## Cómo contactarme 📫
+
+Si tienes alguna pregunta o te gustaría hablar sobre algún proyecto interesante, no dudes en contactarme a través de mi correo electrónico: andresguerra0625@gmail.com. ¡Estaré encantado de escuchar tus ideas! 
