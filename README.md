@@ -1,4 +1,4 @@
-# ¡Hola! Soy @Guerrita 👋
+# ¡Hola! Soy Andres 👋
 
 ## Acerca de mí | About me 👀
 
